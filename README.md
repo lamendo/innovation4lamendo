@@ -1,4 +1,4 @@
-# innovation4lamendo
+# innovation4lamendo - 1
 continuous innovation through open crowd sourcing
 # objective of this project
 Creativity is shy. Thats why we want to eliminate everything, which prevents ideas from growing.
