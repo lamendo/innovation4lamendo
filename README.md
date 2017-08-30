@@ -19,4 +19,4 @@ Building a network infrastructure, in which anonymous communication is standard.
 1. Users can post and comment.
 2. Communication is anonymous.
 3. Every User will have 100 Karma Points.
-4. Karma Rules will be implemented
+4. Karma Rules will be implemented - 2
